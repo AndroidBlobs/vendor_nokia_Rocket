@@ -1,0 +1,5 @@
+                                                                                                           
+on post-fs
+    insmod /vendor/lib/modules/mir3da.ko
+
+
